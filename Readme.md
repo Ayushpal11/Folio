@@ -54,3 +54,7 @@ For collaborations and networking, you can reach out to me through the following
 - LinkedIn: [AyushPal11](https://www.linkedin.com/in/AyushPal11/)
 
 Feel free to explore the website and get in touch with me for any inquiries or discussions related to web development, tech, or football!
+
+## Author 
+
+Made by me with ❤️  (https://github.com/Ayushpal11)
