@@ -2,6 +2,8 @@
 
 This is my portfolio website showcasing my web development projects and skills. It includes a landing page, sections for displaying technical skills, and information about my projects. The website also has links to my GitHub, Instagram, and LinkedIn profiles for networking and collaboration.
 
+You can visit it at - https://ayushpal11.github.io/Folio/
+
 ## Table of Contents
 
 - [Introduction](#introduction)
