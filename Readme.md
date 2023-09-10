@@ -33,19 +33,11 @@ In the "Skills" section, I present my technical expertise in various areas:
 
 ## Projects
 
-My portfolio includes the following projects:
+My portfolio includes the Github link where you can view my projects:
 
 1. **Github**
    - Description: My GitHub repository showcasing projects that blend innovation, functionality, and aesthetics.
    - Link: [GitHub Repository](https://github.com/Ayushpal11)
-
-2. **Socialising Here**
-   - Description: My Instagram account where I share tech insights, meme madness, and football-related content.
-   - Link: [Instagram Profile](https://www.instagram.com/ayushpal11/)
-
-3. **Play Football ⚽⚽**
-   - Description: My passion for playing football and how it keeps me grounded, teaches teamwork, and inspires me to tackle challenges on and off the field.
-   - Note: Connect with me to discuss football and tech.
 
 ## Contact
 
